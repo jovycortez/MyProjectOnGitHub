@@ -6,6 +6,5 @@ public class MyClassOnGitHub {
 		// TODO Auto-generated method stub
 
 		System.out.println("My First Commit!");
-		System.out.println("This is the Second!");
 	}
 }
